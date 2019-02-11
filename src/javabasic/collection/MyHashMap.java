@@ -1,4 +1,4 @@
-package collection;
+package javabasic.collection;
 
 import java.io.Serializable;
 import java.util.AbstractMap;
